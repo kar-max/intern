@@ -27,7 +27,7 @@ The new Explore feature gives you a better understanding of what’s in the data
 challenges face-
 i didnt had any any idea on were should i start with on my data analytics.
 solution-
-find from youtube and website using internet.
+find from youtube and website using internet.<br>
 sources-
 https://www.techtarget.com/searchcontentmanagement/definition/Microsoft-Power-BI
 https://careerfoundry.com/en/blog/data-analytics/what-is-data-analytics/
