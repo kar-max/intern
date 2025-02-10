@@ -8,13 +8,13 @@ key difference in data science and data analytics- which were  what they do with
 and data science -they use data moduling.
 different tools use in data science which were sql and hadoop.<br>
 power bi feature-
-AI-Users can access AI-powered image recognition and text analytics in Power BI.
-Hybrid deployment support- This feature provides built-in connectors that allow Power BI tools to connect with a number of different data sources from Microsoft.
-Quick Insights-This feature allows users to create subsets of data and automatically apply analytics to that information.
-Common data model support- ower BI use a standardized and extensible collection of data.
-Customization- allow us to change and customize the report.
-APIs for integration- Developers use sample code and APIs to embed the Power BI dashboard.
-Self-service data prep-Using Power Query, business analysts can ingest, transform, integrate and enrich big data into the Power BI web service
+AI-Users can access AI-powered image recognition and text analytics in Power BI.<br>
+Hybrid deployment support- This feature provides built-in connectors that allow Power BI tools to connect with a number of different data sources from Microsoft.<br>
+Quick Insights-This feature allows users to create subsets of data and automatically apply analytics to that information.<br>
+Common data model support- ower BI use a standardized and extensible collection of data.<br>
+Customization- allow us to change and customize the report.<br>
+APIs for integration- Developers use sample code and APIs to embed the Power BI dashboard.<br>
+Self-service data prep-Using Power Query, business analysts can ingest, transform, integrate and enrich big data into the Power BI web service.<br>
 Modeling view-Users can divide complex data models by subject area into separate.<br>
 new features- feberay 2024 highlight-
 Visual calculations make it easier than ever to do calculations that were very hard or even impossible.
